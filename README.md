@@ -1,6 +1,6 @@
 ## McDonald's Dashboard
 # 🧾 Project Description
-This is a sales performance dashboard built entirely using Microsoft Excel, focused on McDonald's operations across India and South America for the year 2022.
+This is a sales performance dashboard built entirely using Microsoft Excel, focused on McDonald's operations South America for the year 2022.
 
 The dashboard presents key business metrics such as Sales, Profit, Number of Customers, and Customer Satisfaction through visually engaging charts and summaries — all created without using Pivot Tables, Conditional Formatting, or external tools.
 
