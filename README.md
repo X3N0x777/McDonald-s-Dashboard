@@ -1,4 +1,4 @@
-## McDonald-s-Dashboard
+## McDonald's Dashboard
 # 🧾 Project Description
 This is a sales performance dashboard built entirely using Microsoft Excel, focused on McDonald's operations across India and South America for the year 2022.
 
